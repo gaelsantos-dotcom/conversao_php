@@ -89,4 +89,3 @@ echo "Área  Trapézio: " . $resultado . "\n";
 
 
 
-
